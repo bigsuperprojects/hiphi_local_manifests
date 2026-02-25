@@ -15,14 +15,14 @@ export LANGUAGE=C
 
 # set up the environment (variables and functions)
 source build/envsetup.sh
-breakfast lineage_rtwo-bp4a-userdebug
+breakfast lineage_hiphi-bp1a-userdebug
 
 # clean build
-make clean
+# make clean
 
 # dirty build
-#make installclean
+make installclean
 
 # fire up the building process and also log stdout
 # and stderrout
-brunch lineage_rtwo-bp4a-userdebug 2>&1 | tee rtwo_make.log
+brunch lineage_hiphi-bp1a-userdebug 2>&1 | tee hiphi_make.log

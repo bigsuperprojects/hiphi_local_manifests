@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- device trees -->
+  <project name="motorola-sm8450-devs/android_device_motorola_sm8475-common" path="device/motorola/sm8475-common" remote="github" revision="lineage-22.2"/>
+  <project name="motorola-sm8450-devs/android_device_motorola_hiphi" path="device/motorola/hiphi" remote="github" revision="lineage-22.2"/>
+
+  <!-- kernel -->
+  <project name="motorola-sm8450-devs/android_kernel_motorola_sm8475" path="kernel/motorola/sm8475" remote="github" revision="rebase1/lineage-22.2"/>
+  <project name="motorola-sm8450-devs/android_kernel_motorola_sm8475-devicetrees" path="kernel/motorola/sm8475-devicetrees" remote="github" revision="rebase1/lineage-22.2"/>
+  <project name="motorola-sm8450-devs/android_kernel_motorola_sm8475-modules" path="kernel/motorola/sm8475-modules" remote="github" revision="rebase1/lineage-22.2"/>
+
+  <!-- vendor -->
+  <project name="motorola-sm8450-devs/proprietary_vendor_motorola_sm8475-common" path="vendor/motorola/sm8475-common" remote="github" revision="lineage-22.2"/>
+  <project name="motorola-sm8450-devs/proprietary_vendor_motorola_hiphi" path="vendor/motorola/hiphi" remote="github" revision="lineage-22.2"/>
+</manifest>
