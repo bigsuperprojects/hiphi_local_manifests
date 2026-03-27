@@ -15,7 +15,7 @@ export LANGUAGE=C
 
 # set up the environment (variables and functions)
 source build/envsetup.sh
-breakfast lineage_hiphi-bp1a-userdebug
+breakfast lineage_hiphi-bp4a-userdebug
 
 # clean build
 # make clean
@@ -25,4 +25,4 @@ make installclean
 
 # fire up the building process and also log stdout
 # and stderrout
-brunch lineage_hiphi-bp1a-userdebug 2>&1 | tee hiphi_make.log
+brunch lineage_hiphi-bp4a-userdebug 2>&1 | tee hiphi_make.log
