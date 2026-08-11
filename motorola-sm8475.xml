@@ -6,7 +6,7 @@
 
   <!-- kernel -->
 
-  <project name="bigsuperprojects" path="kernel/motorola/sm8475" remote="github" revision="lineage-23.2"/>
+  <project name="bigsuperprojects/android_kernel_motorola_sm8475" path="kernel/motorola/sm8475" remote="github" revision="lineage-23.2"/>
   <project name="bigsuperprojects/android_kernel_motorola_sm8475-devicetrees" path="kernel/motorola/sm8475-devicetrees" remote="github" revision="lineage-23.2"/>
   <project name="bigsuperprojects/android_kernel_motorola_sm8475-modules" path="kernel/motorola/sm8475-modules" remote="github" revision="lineage-23.2"/>
 
