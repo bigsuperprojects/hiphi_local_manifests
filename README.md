@@ -25,4 +25,4 @@ Building
     ./hiphi_clean_build.sh // for hiphi clean builds
     ./hiphi_dirty_build.sh // for hiphi dirty builds
 
-I (not bigsupersquid, forked) made these modified scripts for convenience plus logs terminal output to files for easy scrolling later in your favorite text editor.
+I (not bigsupersquid, see https://github.com/motorola-sm8450-devs/local_manifests) made these modified scripts for convenience plus logs terminal output to files for easy scrolling later in your favorite text editor.
